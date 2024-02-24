@@ -1,4 +1,4 @@
 --> Hi there 👋
 
-- 📚 currently trying find a personal project to work on
-- 🎢 Learning DSA n doin LeetCode
+- 📚 currently trying to work on a personal project
+- 🎢 Learning DSA, development and doing LeetCode
