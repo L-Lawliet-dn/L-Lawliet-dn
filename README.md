@@ -1,5 +1,5 @@
 -  Hi there 👋
-- 📚 currently trying to work on a personal project, my portfolio website that is!
+- 📚 currently trying to work on AI/ML, Spring Boot and React
 - 🎢 Learning DSA, development and doing LeetCode
   
 
